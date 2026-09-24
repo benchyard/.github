@@ -11,7 +11,7 @@ environments and test evidence. Start small; use your existing Git host or agent
 
 | Product | Purpose |
 |---|---|
-| [Benchyard Console](https://github.com/benchyard/benchyard-console) | Shared work and agent execution (repository currently private) |
+| [Benchyard Console](https://hero.benchyard.com/) | Shared work and agent execution (repository currently private) |
 | [Acahti](https://github.com/lpythu/acahti) | Git, checks, packages and MCP identity |
 | [Acahti Plugin](https://github.com/lpythu/acahti-plugin) | Cursor and Codex integration guidance |
 | [Skheri](https://github.com/benchyard/skheri) | Persistent workspaces and preview before commit |
